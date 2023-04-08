@@ -1,6 +1,6 @@
 <H1 align="center">Automatic Number Plate Detection and Recognition using YOLOv8</H1>
 
-
+<h2 align="center">Run following commands in Google colab it will easy to run<h2>
 ## Steps to run Code
 
 - Clone the repository
