@@ -5,7 +5,7 @@
 
 - Clone the repository
 ```
-git clone [https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8.git](https://github.com/monishkumar08/Automatic-number-plate-recognization-using-yolo-v8.git)
+git clone https://github.com/monishkumar08/Automatic-number-plate-recognization-using-yolo-v8.git
 ```
 - Goto the cloned folder.
 ```
