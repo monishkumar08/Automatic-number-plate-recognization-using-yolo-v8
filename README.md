@@ -9,7 +9,7 @@ git clone https://github.com/monishkumar08/Automatic-number-plate-recognization-
 ```
 - Goto the cloned folder.
 ```
-cd Automatic_Number_Plate_Detection_Recognition_YOLOv8
+cd Automatic-number-plate-recognization-using-yolo-v8
 ```
 - Install the dependecies
 ```
